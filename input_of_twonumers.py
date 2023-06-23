@@ -31,4 +31,8 @@ x,y,z=friuts
 print(x)
 print(y)
 print(z)
-
+D="python"
+E="is"
+F="full of cringe"
+print(D,E,F)    #just uses seperated comma it seperated them
+print(D+E+F)    #uses concatination it joined them
