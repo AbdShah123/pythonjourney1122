@@ -9,3 +9,5 @@ width=10
 print(string_1.center(width))
 print(string_1.ljust(width))
 print(string_1.casefold())        #doesn't change the original string only return a new string
+print(string_1.find('H'))         #finding the specific elemant based on the index number of an elemant
+print(string_1.replace('World',' Hell'))    #replacing the word based upon the specified variable or string object text
